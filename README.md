@@ -4,7 +4,7 @@
 I develop with C++ on my daily basis. Also I like to work with Python and Bash.
 
 - 🔭 I’m currently working on the Gaming industry as backend developer at [Globant](https://www.globant.com/)
-- 🌱 I’m currently learning Solidity because I'm really interested in Web3 technologies which offers the opportunity of making decentralized apps/platforms and depend anymore on the common big tech and/or financial corporations. I'd like to jump on this area sometime in the near future and make cool apps for the benefit of people.
+- 🌱 I’m currently learning Solidity because I'm really interested in Web3 technologies which offers the opportunity of making decentralized apps/platforms to not depend anymore on the common big tech and/or financial corporations. I'd like to jump on this area sometime in the near future and make cool apps for the benefit of people.
 - 👯 I’m looking to collaborate on projects with a positive impact such as social or green projects.
 - 💬 Ask me about anything [here](https://github.com/mguarna/mguarna/issues)
 <!--
