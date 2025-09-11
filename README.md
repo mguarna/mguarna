@@ -1,9 +1,11 @@
-# Hi, I'm Matias
-## C++ / Python developer
+# Hi, I'm Matias 👋
+## Back-end developer
 
-- 🔭 I’m currently working on the Gaming industry as backend developer at [Globant](https://www.globant.com/)
-- 🌱 I’m currently learning about Web3, blockchain and Solidity. I'd like to jump on this area sometime in the near future.
-- 👯 I’m looking to collaborate on open-source and/or social projects.
+I develop with C++ on my daily basis. Also I like to work with Python and Bash.
+
+- 🔭 I’m currently working on the Gaming industry as back-end developer at [Globant](https://www.globant.com/)
+- 🌱 I’m currently learning Solidity because I'm really interested in Web3 technologies. I'd like to jump on this area sometime in the near future.
+- 👯 I’m looking to collaborate on projects with a positive impact such as social or green projects.
 - 💬 Ask me about anything [here](https://github.com/mguarna/mguarna/issues)
 <!--
 **mguarna/mguarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
